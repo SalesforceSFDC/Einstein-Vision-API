@@ -1,3 +1,3 @@
 # Einstein-Vision-API
 
-https://api.metamind.io/signup
+ * [Metamind Signup page](https://api.metamind.io/signup)
